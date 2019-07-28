@@ -1,2 +1,4 @@
-# IrenePeace_Portfolio
-C++, IOCP기반 게임서버프로그래밍 실습
+- C++ 및 IOCP기반 게임서버프로그래밍 실습
+- Directx9 기반 클라이언트 사용
+- Microsoft SQL Server Management 사용
+- Lua Script 연동

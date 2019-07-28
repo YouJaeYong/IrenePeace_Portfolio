@@ -1,0 +1,7 @@
+﻿  2DClient.cpp
+  gpdumb1.cpp
+gpdumb1.obj : error LNK2001: _Direct3DCreate9@4 외부 기호를 확인할 수 없습니다.
+gpdumb1.obj : error LNK2001: _D3DXCreateFontW@48 외부 기호를 확인할 수 없습니다.
+gpdumb1.obj : error LNK2001: _D3DXCreateTextureFromFileExW@56 외부 기호를 확인할 수 없습니다.
+gpdumb1.obj : error LNK2001: _D3DXCreateSprite@8 외부 기호를 확인할 수 없습니다.
+C:\Users\유재용\Documents\카카오톡 받은 파일\게임서버프로그래밍 2013184019 유재용 텀프로젝트\텀프\2013184019 유재용 클라이언트\Release\2018GameServerClient.exe : fatal error LNK1120: 4개의 확인할 수 없는 외부 참조입니다.

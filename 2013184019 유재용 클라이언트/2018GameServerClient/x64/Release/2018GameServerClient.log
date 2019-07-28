@@ -1,0 +1,9 @@
+﻿  2DClient.cpp
+c:\users\유재용\documents\카카오톡 받은 파일\게임서버프로그래밍 2013184019 유재용 텀프로젝트\텀프\2013184019 유재용 클라이언트\2018gameserverclient\2dclient.cpp(105): warning C4477: 'wscanf_s' : 서식 문자열 '%s'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'size_t'입니다.
+  c:\users\유재용\documents\카카오톡 받은 파일\게임서버프로그래밍 2013184019 유재용 텀프로젝트\텀프\2013184019 유재용 클라이언트\2018gameserverclient\2dclient.cpp(105): note: 이 인수는 버퍼 크기로 사용됩니다.
+c:\users\유재용\documents\카카오톡 받은 파일\게임서버프로그래밍 2013184019 유재용 텀프로젝트\텀프\2013184019 유재용 클라이언트\2018gameserverclient\2dclient.cpp(571): warning C4244: 'return': 'WPARAM'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  gpdumb1.cpp
+  코드를 생성하고 있습니다.
+  All 181 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  코드를 생성했습니다.
+  2018GameServerClient.vcxproj -> C:\Users\유재용\Documents\카카오톡 받은 파일\게임서버프로그래밍 2013184019 유재용 텀프로젝트\텀프\2013184019 유재용 클라이언트\x64\Release\2018GameServerClient.exe

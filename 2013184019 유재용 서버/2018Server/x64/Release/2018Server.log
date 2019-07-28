@@ -1,0 +1,49 @@
+﻿  main.cpp
+c:\users\유재용\documents\카카오톡 받은 파일\게임서버프로그래밍 2013184019 유재용 텀프로젝트\텀프\2013184019 유재용 서버\2018server\main.cpp(36): warning C4005: 'UNICODE': 매크로 재정의
+  c:\users\유재용\documents\카카오톡 받은 파일\게임서버프로그래밍 2013184019 유재용 텀프로젝트\텀프\2013184019 유재용 서버\2018server\main.cpp: note: 'UNICODE'의 이전 정의를 참조하십시오.
+c:\users\유재용\documents\카카오톡 받은 파일\게임서버프로그래밍 2013184019 유재용 텀프로젝트\텀프\2013184019 유재용 서버\2018server\main.cpp(346): warning C4244: '초기화 중': 'lua_Number'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\유재용\documents\카카오톡 받은 파일\게임서버프로그래밍 2013184019 유재용 텀프로젝트\텀프\2013184019 유재용 서버\2018server\main.cpp(347): warning C4244: '초기화 중': 'lua_Number'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\유재용\documents\카카오톡 받은 파일\게임서버프로그래밍 2013184019 유재용 텀프로젝트\텀프\2013184019 유재용 서버\2018server\main.cpp(364): warning C4244: '초기화 중': 'lua_Number'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\유재용\documents\카카오톡 받은 파일\게임서버프로그래밍 2013184019 유재용 텀프로젝트\텀프\2013184019 유재용 서버\2018server\main.cpp(373): warning C4244: '초기화 중': 'lua_Number'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\유재용\documents\카카오톡 받은 파일\게임서버프로그래밍 2013184019 유재용 텀프로젝트\텀프\2013184019 유재용 서버\2018server\main.cpp(670): warning C4477: 'wprintf' : 서식 문자열 '%S'에 'char *' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'SQLWCHAR *'입니다.
+  c:\users\유재용\documents\카카오톡 받은 파일\게임서버프로그래밍 2013184019 유재용 텀프로젝트\텀프\2013184019 유재용 서버\2018server\main.cpp(670): note: 서식 문자열에서 '%lS'을(를) 사용하는 것이 좋습니다.
+  c:\users\유재용\documents\카카오톡 받은 파일\게임서버프로그래밍 2013184019 유재용 텀프로젝트\텀프\2013184019 유재용 서버\2018server\main.cpp(670): note: 서식 문자열에서 '%llS'을(를) 사용하는 것이 좋습니다.
+  c:\users\유재용\documents\카카오톡 받은 파일\게임서버프로그래밍 2013184019 유재용 텀프로젝트\텀프\2013184019 유재용 서버\2018server\main.cpp(670): note: 서식 문자열에서 '%LS'을(를) 사용하는 것이 좋습니다.
+  c:\users\유재용\documents\카카오톡 받은 파일\게임서버프로그래밍 2013184019 유재용 텀프로젝트\텀프\2013184019 유재용 서버\2018server\main.cpp(670): note: 서식 문자열에서 '%wS'을(를) 사용하는 것이 좋습니다.
+c:\users\유재용\documents\카카오톡 받은 파일\게임서버프로그래밍 2013184019 유재용 텀프로젝트\텀프\2013184019 유재용 서버\2018server\main.cpp(670): warning C4477: 'wprintf' : 서식 문자열 '%S'에 'char *' 형식의 인수가 필요하지만 variadic 인수 8의 형식이 'SQLWCHAR *'입니다.
+  c:\users\유재용\documents\카카오톡 받은 파일\게임서버프로그래밍 2013184019 유재용 텀프로젝트\텀프\2013184019 유재용 서버\2018server\main.cpp(670): note: 서식 문자열에서 '%lS'을(를) 사용하는 것이 좋습니다.
+  c:\users\유재용\documents\카카오톡 받은 파일\게임서버프로그래밍 2013184019 유재용 텀프로젝트\텀프\2013184019 유재용 서버\2018server\main.cpp(670): note: 서식 문자열에서 '%llS'을(를) 사용하는 것이 좋습니다.
+  c:\users\유재용\documents\카카오톡 받은 파일\게임서버프로그래밍 2013184019 유재용 텀프로젝트\텀프\2013184019 유재용 서버\2018server\main.cpp(670): note: 서식 문자열에서 '%LS'을(를) 사용하는 것이 좋습니다.
+  c:\users\유재용\documents\카카오톡 받은 파일\게임서버프로그래밍 2013184019 유재용 텀프로젝트\텀프\2013184019 유재용 서버\2018server\main.cpp(670): note: 서식 문자열에서 '%wS'을(를) 사용하는 것이 좋습니다.
+c:\users\유재용\documents\카카오톡 받은 파일\게임서버프로그래밍 2013184019 유재용 텀프로젝트\텀프\2013184019 유재용 서버\2018server\main.cpp(963): warning C4101: 'ch_x' :참조되지 않은 지역 변수입니다.
+c:\users\유재용\documents\카카오톡 받은 파일\게임서버프로그래밍 2013184019 유재용 텀프로젝트\텀프\2013184019 유재용 서버\2018server\main.cpp(963): warning C4101: 'ch_y' :참조되지 않은 지역 변수입니다.
+c:\users\유재용\documents\카카오톡 받은 파일\게임서버프로그래밍 2013184019 유재용 텀프로젝트\텀프\2013184019 유재용 서버\2018server\main.cpp(962): warning C4101: 'szName' :참조되지 않은 지역 변수입니다.
+c:\users\유재용\documents\카카오톡 받은 파일\게임서버프로그래밍 2013184019 유재용 텀프로젝트\텀프\2013184019 유재용 서버\2018server\main.cpp(1304): warning C4244: '인수': 'unsigned __int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\유재용\documents\카카오톡 받은 파일\게임서버프로그래밍 2013184019 유재용 텀프로젝트\텀프\2013184019 유재용 서버\2018server\main.cpp(1310): warning C4244: '인수': 'unsigned __int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\유재용\documents\카카오톡 받은 파일\게임서버프로그래밍 2013184019 유재용 텀프로젝트\텀프\2013184019 유재용 서버\2018server\main.cpp(1330): warning C4244: '인수': 'unsigned __int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\유재용\documents\카카오톡 받은 파일\게임서버프로그래밍 2013184019 유재용 텀프로젝트\텀프\2013184019 유재용 서버\2018server\main.cpp(1346): warning C4244: '인수': 'unsigned __int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\유재용\documents\카카오톡 받은 파일\게임서버프로그래밍 2013184019 유재용 텀프로젝트\텀프\2013184019 유재용 서버\2018server\main.cpp(1353): warning C4244: '인수': 'unsigned __int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\유재용\documents\카카오톡 받은 파일\게임서버프로그래밍 2013184019 유재용 텀프로젝트\텀프\2013184019 유재용 서버\2018server\main.cpp(1356): warning C4244: '인수': 'unsigned __int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\유재용\documents\카카오톡 받은 파일\게임서버프로그래밍 2013184019 유재용 텀프로젝트\텀프\2013184019 유재용 서버\2018server\main.cpp(1362): warning C4244: '인수': 'unsigned __int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\유재용\documents\카카오톡 받은 파일\게임서버프로그래밍 2013184019 유재용 텀프로젝트\텀프\2013184019 유재용 서버\2018server\main.cpp(1378): warning C4244: '=': 'unsigned __int64'에서 'unsigned short'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\유재용\documents\카카오톡 받은 파일\게임서버프로그래밍 2013184019 유재용 텀프로젝트\텀프\2013184019 유재용 서버\2018server\main.cpp(1384): warning C4244: '인수': 'unsigned __int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\유재용\documents\카카오톡 받은 파일\게임서버프로그래밍 2013184019 유재용 텀프로젝트\텀프\2013184019 유재용 서버\2018server\main.cpp(1386): warning C4244: '인수': 'unsigned __int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\유재용\documents\카카오톡 받은 파일\게임서버프로그래밍 2013184019 유재용 텀프로젝트\텀프\2013184019 유재용 서버\2018server\main.cpp(1396): warning C4244: '인수': 'unsigned __int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\유재용\documents\카카오톡 받은 파일\게임서버프로그래밍 2013184019 유재용 텀프로젝트\텀프\2013184019 유재용 서버\2018server\main.cpp(1403): warning C4244: '인수': 'unsigned __int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\유재용\documents\카카오톡 받은 파일\게임서버프로그래밍 2013184019 유재용 텀프로젝트\텀프\2013184019 유재용 서버\2018server\main.cpp(1411): warning C4244: '인수': 'unsigned __int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\유재용\documents\카카오톡 받은 파일\게임서버프로그래밍 2013184019 유재용 텀프로젝트\텀프\2013184019 유재용 서버\2018server\main.cpp(1431): warning C4244: '인수': 'unsigned __int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\유재용\documents\카카오톡 받은 파일\게임서버프로그래밍 2013184019 유재용 텀프로젝트\텀프\2013184019 유재용 서버\2018server\main.cpp(1432): warning C4244: '인수': 'unsigned __int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\유재용\documents\카카오톡 받은 파일\게임서버프로그래밍 2013184019 유재용 텀프로젝트\텀프\2013184019 유재용 서버\2018server\main.cpp(1437): warning C4244: '인수': 'unsigned __int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\유재용\documents\카카오톡 받은 파일\게임서버프로그래밍 2013184019 유재용 텀프로젝트\텀프\2013184019 유재용 서버\2018server\main.cpp(1442): warning C4244: '인수': 'unsigned __int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\유재용\documents\카카오톡 받은 파일\게임서버프로그래밍 2013184019 유재용 텀프로젝트\텀프\2013184019 유재용 서버\2018server\main.cpp(1450): warning C4018: '>': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\유재용\documents\카카오톡 받은 파일\게임서버프로그래밍 2013184019 유재용 텀프로젝트\텀프\2013184019 유재용 서버\2018server\main.cpp(1454): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\유재용\documents\카카오톡 받은 파일\게임서버프로그래밍 2013184019 유재용 텀프로젝트\텀프\2013184019 유재용 서버\2018server\main.cpp(1461): warning C4244: '인수': 'unsigned __int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\유재용\documents\카카오톡 받은 파일\게임서버프로그래밍 2013184019 유재용 텀프로젝트\텀프\2013184019 유재용 서버\2018server\main.cpp(1465): warning C4244: '인수': 'unsigned __int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\유재용\documents\카카오톡 받은 파일\게임서버프로그래밍 2013184019 유재용 텀프로젝트\텀프\2013184019 유재용 서버\2018server\main.cpp(1649): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+LINK : warning LNK4098: 'LIBCMT' defaultlib가 다른 라이브러리와 충돌합니다. /NODEFAULTLIB:library를 사용하십시오.
+  코드를 생성하고 있습니다.
+  0 of 810 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  2018Server.vcxproj -> C:\Users\유재용\Documents\카카오톡 받은 파일\게임서버프로그래밍 2013184019 유재용 텀프로젝트\텀프\2013184019 유재용 서버\x64\Release\2018Server.exe
